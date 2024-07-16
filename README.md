@@ -1,4 +1,5 @@
 Timer Application
+
 This project uses Python and Tkinter to create a simple timer application. The user can start, stop, and see the elapsed time on the screen.
 
 Features
